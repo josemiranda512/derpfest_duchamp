@@ -1,0 +1,9 @@
+# 10/05/2026
+* Dropped per-app thermal parts
+* Enable mgame mode
+* GameBar v4 added
+* HTSR added
+* Migrate to IMPL_VER V2 for fingerprint
+* udfps: Workaround onFingerDown() race
+* Import GNSS LBS AIDL service
+* April Security Patch
